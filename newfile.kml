@@ -1,0 +1,368 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Nearby Properties - Ghorpadi</name>
+
+    <Style id="redBuildingStyle">
+      <LineStyle>
+        <color>ff0000ff</color>
+        <width>2</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>33ff0000</color>
+        <fill>1</fill>
+      </PolyStyle>
+      <IconStyle>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+
+    <Placemark>
+      <name>Monarch Surveyors &amp; Engineering Consultants Ltd.</name>
+      <ExtendedData>
+        <Data name="id"><value>PRP-00086</value></Data>
+        <Data name="status"><value>Survey Completed</value></Data>
+        <Data name="allocation"><value></value></Data>
+      </ExtendedData>
+      <styleUrl>#redBuildingStyle</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>
+              73.8999,18.5238,0
+              73.9003,18.5238,0
+              73.9003,18.5236,0
+              73.8999,18.5236,0
+              73.8999,18.5238,0
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+
+    <Placemark>
+      <name>KK Empire</name>
+      <ExtendedData>
+        <Data name="id"><value>PRP-00087</value></Data>
+        <Data name="status"><value>Survey Not Completed</value></Data>
+        <Data name="allocation"><value></value></Data>
+      </ExtendedData>
+      <styleUrl>#redBuildingStyle</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>
+              73.9003,18.5230,0
+              73.9007,18.5230,0
+              73.9007,18.5226,0
+              73.9003,18.5226,0
+              73.9003,18.5230,0
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+
+    <Placemark>
+      <name>Kundan Eternia</name>
+      <ExtendedData>
+        <Data name="id"><value>PRP-00088</value></Data>
+        <Data name="status"><value>Survey Completed</value></Data>
+        <Data name="allocation"><value></value></Data>
+      </ExtendedData>
+      <styleUrl>#redBuildingStyle</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>
+              73.8997,18.5236,0
+              73.9001,18.5236,0
+              73.9001,18.5232,0
+              73.8997,18.5232,0
+              73.8997,18.5236,0
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+
+    <Placemark>
+      <name>GKG The Kings Way</name>
+      <ExtendedData>
+        <Data name="id"><value>PRP-00098</value></Data>
+        <Data name="status"><value>Survey Not Completed</value></Data>
+        <Data name="allocation"><value></value></Data>
+      </ExtendedData>
+      <styleUrl>#redBuildingStyle</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>
+              73.9004,18.5241,0
+              73.9008,18.5241,0
+              73.9008,18.5237,0
+              73.9004,18.5237,0
+              73.9004,18.5241,0
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+
+    <Placemark>
+      <name>Raviraj Citadel Enclave</name>
+      <ExtendedData>
+        <Data name="id"><value>PRP-00099</value></Data>
+        <Data name="status"><value>Survey Completed</value></Data>
+        <Data name="allocation"><value></value></Data>
+      </ExtendedData>
+      <styleUrl>#redBuildingStyle</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>
+              73.9010,18.5237,0
+              73.9014,18.5237,0
+              73.9014,18.5233,0
+              73.9010,18.5233,0
+              73.9010,18.5237,0
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+
+    <Placemark>
+      <name>SRS Regent Heights</name>
+      <ExtendedData>
+        <Data name="id"><value>PRP-00102</value></Data>
+        <Data name="status"><value>Survey Not Completed</value></Data>
+        <Data name="allocation"><value></value></Data>
+      </ExtendedData>
+      <styleUrl>#redBuildingStyle</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>
+              73.9014,18.5231,0
+              73.9018,18.5231,0
+              73.9018,18.5227,0
+              73.9014,18.5227,0
+              73.9014,18.5231,0
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+
+    <Placemark>
+      <name>Ama The Turf Building A &amp; B</name>
+      <ExtendedData>
+        <Data name="id"><value>PRP-00103</value></Data>
+        <Data name="status"><value>Survey Completed</value></Data>
+        <Data name="allocation"><value></value></Data>
+      </ExtendedData>
+      <styleUrl>#redBuildingStyle</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>
+              73.9019,18.5228,0
+              73.9023,18.5228,0
+              73.9023,18.5224,0
+              73.9019,18.5224,0
+              73.9019,18.5228,0
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+
+    <Placemark>
+      <name>Yash Park Land</name>
+      <ExtendedData>
+        <Data name="id"><value>PRP-00104</value></Data>
+        <Data name="status"><value>Survey Completed</value></Data>
+        <Data name="allocation"><value></value></Data>
+      </ExtendedData>
+      <styleUrl>#redBuildingStyle</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>
+              73.8996,18.5242,0
+              73.9000,18.5242,0
+              73.9000,18.5238,0
+              73.8996,18.5238,0
+              73.8996,18.5242,0
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+
+    <Placemark>
+      <name>Kohinoor Presidentia</name>
+      <ExtendedData>
+        <Data name="id"><value>PRP-00105</value></Data>
+        <Data name="status"><value>Survey Not Completed</value></Data>
+        <Data name="allocation"><value></value></Data>
+      </ExtendedData>
+      <styleUrl>#redBuildingStyle</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>
+              73.8988,18.5232,0
+              73.8992,18.5232,0
+              73.8992,18.5228,0
+              73.8988,18.5228,0
+              73.8988,18.5232,0
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+
+    <Placemark>
+      <name>Anand The Turf</name>
+      <ExtendedData>
+        <Data name="id"><value>PRP-00106</value></Data>
+        <Data name="status"><value>Survey Completed</value></Data>
+        <Data name="allocation"><value></value></Data>
+      </ExtendedData>
+      <styleUrl>#redBuildingStyle</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>
+              73.8991,18.5225,0
+              73.8995,18.5225,0
+              73.8995,18.5221,0
+              73.8991,18.5221,0
+              73.8991,18.5225,0
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+
+    <Placemark>
+      <name>Zende Alcove</name>
+      <ExtendedData>
+        <Data name="id"><value>PRP-00102</value></Data>
+        <Data name="status"><value>Survey Not Completed</value></Data>
+        <Data name="allocation"><value></value></Data>
+      </ExtendedData>
+      <styleUrl>#redBuildingStyle</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>
+              73.8997,18.5221,0
+              73.9001,18.5221,0
+              73.9001,18.5217,0
+              73.8997,18.5217,0
+              73.8997,18.5221,0
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+
+    <Placemark>
+      <name>Kuldip Ramesh Baagwe</name>
+      <ExtendedData>
+        <Data name="id"><value>PRP-00087</value></Data>
+        <Data name="status"><value>Survey Completed</value></Data>
+        <Data name="allocation"><value></value></Data>
+      </ExtendedData>
+      <styleUrl>#redBuildingStyle</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>
+              73.9002,18.5216,0
+              73.9006,18.5216,0
+              73.9006,18.5212,0
+              73.9002,18.5212,0
+              73.9002,18.5216,0
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+
+    <Placemark>
+      <name>Platinum Bliss</name>
+      <ExtendedData>
+        <Data name="id"><value>PRP-00088</value></Data>
+        <Data name="status"><value>Survey Not Completed</value></Data>
+        <Data name="allocation"><value></value></Data>
+      </ExtendedData>
+      <styleUrl>#redBuildingStyle</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>
+              73.9006,18.5212,0
+              73.9010,18.5212,0
+              73.9010,18.5208,0
+              73.9006,18.5208,0
+              73.9006,18.5212,0
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+
+    <Placemark>
+      <name>Total Songs From The Wood Phase 3</name>
+      <ExtendedData>
+        <Data name="id"><value>PRP-00103</value></Data>
+        <Data name="status"><value>Survey Completed</value></Data>
+        <Data name="allocation"><value></value></Data>
+      </ExtendedData>
+      <styleUrl>#redBuildingStyle</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>
+              73.9011,18.5209,0
+              73.9015,18.5209,0
+              73.9015,18.5205,0
+              73.9011,18.5205,0
+              73.9011,18.5209,0
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+
+    <Placemark>
+      <name>Yash Vastu Park Land Homes</name>
+      <ExtendedData>
+        <Data name="id"><value>PRP-00088</value></Data>
+        <Data name="status"><value>Survey Not Completed</value></Data>
+        <Data name="allocation"><value></value></Data>
+      </ExtendedData>
+      <styleUrl>#redBuildingStyle</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>
+              73.9015,18.5205,0
+              73.9019,18.5205,0
+              73.9019,18.5201,0
+              73.9015,18.5201,0
+              73.9015,18.5205,0
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+
+  </Document>
+</kml>
